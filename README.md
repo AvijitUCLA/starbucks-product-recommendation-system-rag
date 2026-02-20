@@ -37,7 +37,7 @@ The recommendation engine follows a strict 3-stage workflow:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/starbucks-recommendation-system.git
+git clone https://github.com/AvijitUCLA/starbucks-product-recommendation-system-rag.git
 cd starbucks-recommendation-system
 ```
 
